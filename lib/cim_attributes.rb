@@ -1,5 +1,7 @@
 module CIMAttributes
 
+  VERSION = '1.1.0'
+
   module ClassMethods
 
     def cim_attr_reader(*args)
